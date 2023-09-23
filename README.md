@@ -1,6 +1,6 @@
 "Text Utils" is a React project that provides a set of useful text manipulation tools in a user-friendly web application. It is designed to assist users in performing various operations on textual content, enhancing their productivity and efficiency when working with text. Below are some of the key features and functionalities of the "Text Utils" React project:
-![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/f85e8fe3-fb3d-4106-9897-d8ae66e56adc)
-![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/ddac0edd-2d80-40de-b514-4afa20bd468d)
+![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/25b67981-a159-4772-acee-22ac838efbfc)
+![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/667849b0-3e54-4ec3-8af6-cf9835d61307)
 
 1. **Text Transformation**:
    - **Uppercase and Lowercase Conversion**: Users can easily convert text to all uppercase or all lowercase, depending on their preference or specific requirements.
@@ -19,7 +19,8 @@
 
 4. **Copy to Clipboard**:
    - The application allows users to easily copy the modified text to their clipboard, enabling seamless integration with other applications or documents.
- ![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/5ee90286-32f6-4126-ac6a-5a2661a55cca)
+ ![image](https://github.com/Shivangyyyyy/Text-Utils/assets/92583374/8009d42e-054f-4ddc-ad80-fbc9425f9d9e)
+
 5. **Clear Text**:
    - Users can quickly clear the input field to start a new text processing task without any hassle.
 
